@@ -1,0 +1,1 @@
+const afile = require('/afile')
